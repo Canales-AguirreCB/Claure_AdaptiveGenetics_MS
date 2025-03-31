@@ -1,0 +1,1 @@
+Genotypes used in the manuscript "Genomic signals of local adaptation associated with environmental variables in Eleginops maclovinus from Northern Chilean Patagonia" submitted to Ecology and Evolution. This data are in genpop format.
